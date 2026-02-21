@@ -16,6 +16,5 @@ Prendre le réseau SmartLife-DABA
 
 ok
 
-
-
-
+192.168.1.107
+70:89:76:9c:da:ba
