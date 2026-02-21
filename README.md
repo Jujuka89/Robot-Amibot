@@ -20,3 +20,36 @@ Remonte bien sur l'application Tuya en cloud
 
 192.168.1.107
 70:89:76:9c:da:ba
+
+
+
+
+🔥 Solution propre (local uniquement) — LocalTuya
+
+Beaucoup plus intéressant 👌
+Surtout pour toi qui fais déjà des intégrations custom.
+
+Étape 1 — Récupérer le local_key
+
+On va utiliser :
+
+👉 Tuya IoT Platform
+
+Va sur :
+https://iot.tuya.com
+
+Crée un compte développeur
+
+Create Cloud Project
+
+Link ton compte Tuya (QR code)
+
+Devices → tu verras ton aspirateur
+
+Tu récupères :
+
+Device ID
+
+Local Key
+
+IP locale
