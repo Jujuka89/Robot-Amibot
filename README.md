@@ -23,11 +23,7 @@ Remonte bien sur l'application Tuya en cloud
 
 
 
-
 🔥 Solution propre (local uniquement) — LocalTuya
-
-Beaucoup plus intéressant 👌
-Surtout pour toi qui fais déjà des intégrations custom.
 
 Étape 1 — Récupérer le local_key
 
